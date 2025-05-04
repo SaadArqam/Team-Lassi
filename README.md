@@ -24,5 +24,7 @@ The goal is to apply **Benford’s Law** to the Air Quality Index (AQI) dataset 
 ```bash
 📦 Team-Lassi/
 ├── 📊 benfords_law_analysis.ipynb     # Main notebook for Benford's Law Analysis
-├── 📂 data/                            # Contains the AQI dataset
-├── 📄 README.md                        # Project documentation
+├── 📂 data/                           # Contains the AQI dataset
+├── 📂 ppt/                            # Contains the presentation
+├── 📄 README.md                       # Project documentation
+
