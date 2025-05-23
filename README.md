@@ -1,4 +1,4 @@
-# 📊 Benford's Law Analysis on Air Quality Index (AQI) of Indian Cities
+# 📊 Benford's Law Analysis on Air Quality Index (AQI) of Indian Cities.
 
 Welcome to **Team Lassi's** data science project where we analyze whether the AQI data of Indian cities follows **Benford's Law** — a fascinating mathematical phenomenon that often shows up in real-world datasets.
 
